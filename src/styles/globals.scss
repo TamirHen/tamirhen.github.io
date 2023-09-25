@@ -1,0 +1,13 @@
+@use './colours';
+
+* {
+  box-sizing: border-box;
+  color: white;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: colours.$gray;
+  font-family: 'Source Code Pro', sans-serif;
+}

@@ -1,0 +1,12 @@
+$header-desktop-height: 80px;
+
+.header {
+  display: flex;
+  height: $header-desktop-height;
+  padding: 10px 0;
+  align-items: center;
+
+  .logoWrapper {
+    font-size: 28px;
+  }
+}

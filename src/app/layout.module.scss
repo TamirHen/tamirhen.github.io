@@ -1,0 +1,13 @@
+@use "../styles/colours";
+
+.mainContainer {
+  min-height: 100vh;
+  //background: colours.$black;
+  padding: 0 5%;
+  max-width: 1400px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
